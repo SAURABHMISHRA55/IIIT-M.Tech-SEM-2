@@ -1,4 +1,4 @@
-# IIIT Hyderabad - M.Tech-CSE (Spring 2024) 🌸
+# IIIT Hyderabad - M.Tech-CSE (Spring 2024)
 
 Hey there! 👋
 
@@ -28,9 +28,10 @@ This course expanded my knowledge beyond my usual areas, focusing on security pr
 
 Each folder contains detailed reports and exercises related to security audits, risk assessments, and compliance standards.
 
-### 4: System and Network Security 🛡️
-This course provided deep insights into system and network security. Although I cannot upload the professor’s slides, I’ve included one of the key tasks:
-- **Research Paper**: An original paper written after analyzing a latest research paper from an A* journal. It includes references to other significant papers and suggests innovations based on the analysis.
+### 4: System and Network Security 🛡️  
+This course provided comprehensive insights into system and network security concepts. I’ve included both the study material and a key task completed during the course:  
+- **Study Material**: Uploaded course slides that cover critical topics in system and network security.  
+- **Research Paper**: Authored an original paper after analyzing a recent research paper from an A* journal. The paper references other significant works and proposes innovative approaches based on the analysis.
 
 ## Wrapping Up 🎉
 
